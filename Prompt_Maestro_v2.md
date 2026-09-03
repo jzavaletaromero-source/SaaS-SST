@@ -8,7 +8,7 @@
 
 ## 1. Objetivo de esta versión
 
-El Prompt Maestro v2 incorpora las correcciones y mejoras realizadas durante la validación del modelo funcional inicial contra la normativa brasileña de SST.
+El Prompt Maestro v2 incorpora las correcciones y mejoras realizadas durante la validación del modelo funcional inicial contra la normativa NR-1 brasileña de SST.
 
 El objetivo principal es separar correctamente:
 
