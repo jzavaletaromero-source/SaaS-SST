@@ -190,6 +190,7 @@ La aplicabilidad de las obligaciones, riesgos, preguntas, documentos y procesos 
 La fuente inicial de referencia para las Normas Regulamentadoras es:
 
 https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-paritaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes
+NR-01: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-01-atualizada-2025-i-3.pdf
 
 Debes investigar también las fuentes oficiales brasileñas relevantes para:
 
