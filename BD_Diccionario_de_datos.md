@@ -50,7 +50,7 @@
 | created_at | timestamp | DEFAULT: now() | Data e hora de criação do registro |
 | updated_at | timestamp | DEFAULT: now() | Data e hora da última atualização do registro |
 
-## Tabela: `setores`
+## Tabela: `setores_cliente`
 
 | Nome do Atributo | Tipo de Dado | Restrições | Descrição |
 |------------------|--------------|------------|-----------|
